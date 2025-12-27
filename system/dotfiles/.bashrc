@@ -1,0 +1,1 @@
+alias mutant="~/.mutant/mutant"
